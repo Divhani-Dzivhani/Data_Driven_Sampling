@@ -1,4 +1,4 @@
-# DataScopeR:  R Project on Statistical Sampling
+#  R Project on Statistical Sampling
 
  Project that showcases statistical sampling methods through real-world educational examples in R.
 
